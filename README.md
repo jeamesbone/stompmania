@@ -1,7 +1,9 @@
-StepMania
+StompMania
 =========
 
-Advanced cross-platform rhythm game for home and arcade use.
+Advanced Multiplayer cross-platform rhythm game for home and arcade use.
+
+Based on stepmania code base
 
 [![Build Status](https://travis-ci.org/stepmania/stepmania.svg?branch=master)](https://travis-ci.org/stepmania/stepmania)
 
